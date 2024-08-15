@@ -295,14 +295,10 @@ i {
 }
 
 #mission-target,
+#projects-target,
 #skills-target,
 #contact-target,
 #carousel-target {
   position: relative;
   top: -100px;
-}
-
-#projects-target {
-  position: relative;
-  top: -200px;
 }
