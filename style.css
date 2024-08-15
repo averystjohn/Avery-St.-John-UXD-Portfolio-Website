@@ -229,76 +229,19 @@ i {
   color: #424874;
 }
 
-#carousel-section {
-  background-color: #dcd6F7;
-}
-
-@media (max-width: 767px) {
-  #carousel-section {
-    padding-top: 2rem;
-    margin-bottom: 3rem;
-  }
-}
-
-@media (min-width: 768px) {
-  #carousel-section {
-    padding-top: 3rem;
-    margin-bottom: 4rem;
-  }
-}
-
-#carousel-section h1 {
-  color: #424874;
-  font-family: "Montserrat", sans-serif;
-  padding-bottom: 1rem;
-}
-
-@media (min-width: 768px) {
-  #carousel-section h1 {
-    padding-bottom: 2rem;
-  }
-}
-
-.carousel-item:after {
-  content:"";
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: rgba(10,0,30,0.1);
-}
-
-.carousel-caption p {
-  color: #424874;
-  font-size: 1rem;
-}
-
-.carousel-caption h2 {
-  color: #424874;
-  text-shadow: 2px 1px 1px white;
-  font-size: 2rem;
-}
-
-.carousel-caption {
-  z-index: 1;
-}
-
 #hero-section,
 #footer-section,
 #mission-section,
 #projects-section,
 #skills-section,
-#contact-section,
-#carousel-section {
+#contact-section {
   overflow: hidden;
 }
 
 #mission-target,
 #projects-target,
 #skills-target,
-#contact-target,
-#carousel-target {
+#contact-target {
   position: relative;
   top: -100px;
 }
