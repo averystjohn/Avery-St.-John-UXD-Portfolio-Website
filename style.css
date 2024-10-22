@@ -245,3 +245,21 @@ i {
   position: relative;
   top: -100px;
 }
+
+.col-sm-12.col-md-4.text-center a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.col-sm-12.col-md-4.text-center i {
+  margin-bottom: 0.5rem;
+}
+
+.col-sm-12.col-md-4.text-center p {
+  margin: 0;
+  color: #424874;
+  font-family: "Montserrat", sans-serif;
+}
