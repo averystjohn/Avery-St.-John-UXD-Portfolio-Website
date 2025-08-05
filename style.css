@@ -5,8 +5,7 @@ body {
 
 #hero-section {
   background-image: 
-    linear-gradient(rgba(10,0,30,0.6), rgba(10,0,30,0.6)),
-    url("https://outwitly.com/wp-content/uploads/2023/01/01-12-2023_BlogPostHeader-1280x852.jpg");
+    linear-gradient(rgba(10,0,30,0.6), rgba(10,0,30,0.6)), url("https://lens.usercontent.google.com/image?vsrid=CIGaiYLbupKowwEQAhgBIiRlNzdkNTJjNS0wYTQwLTRlOTctYjAyZS0zODM1M2Q3MzFiNmEyBiICYmkoBTizkquvh_SOAw&gsessionid=Nh7r4IOepVM65dF-pbDX56vpbsh5Xp5V4lQtXIsEsbfGE0QHJ1t3_Q");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -27,18 +26,18 @@ body {
 }
 
 #hero-section h1 {
-  color: #AFB9E4;
+  color: #e6deff;
   font-family: "Marcellus", serif;
 }
 
 #hero-section p {
-  color: #AFB9E4;
+  color: #e6deff;
   font-family: "Montserrat", sans-serif;
 }
 
 #footer-section {
   text-align: center;
-  background-color: #424874;
+  background-color: #000000;
   color: #AFB9E4;
   display: flex;
   justify-content: center;
@@ -63,12 +62,12 @@ i {
 }
 
 .nav-item {
-  color: #F4EEFF;
+  color: #130d24;
   margin-right: 20px;
 }
 
 #mission-section {
-  background-color: #dcd6F7;
+  background-color: #130d24;
   padding: 1rem;
 }
 
@@ -81,7 +80,7 @@ i {
 #mission-section h1 {
   text-align: center;
   font-family: "Montserrat", serif;
-  color: #424874;
+  color: #e6deff;
   padding-bottom: 1rem;
 }
 
@@ -97,21 +96,14 @@ i {
   }
 }
 
-#mission-section img {
-  width: 100%;
-  height: auto;
-  object-fit: cover;
-  object-position: center;
-  border-radius: 5%;
-}
-
 #mission-section p {
   padding: 1em;
+  color: #e6deff;
   font-family: Arial, sans-serif;
 }
 
 #projects-section {
-  background-color: #f4eeff;
+  background-color: #130d24;
   padding: 1rem;
 }
 
@@ -128,13 +120,13 @@ i {
 }
 
 #projects-section h1 {
-  color: #424874;
+  color: #e6deff;
   padding: 1rem 0;
   font-family: "Montserrat", sans-serif;
 }
 
 #projects-section p {
-  color: #424874;
+  color: #e6deff;
   padding: 1rem 0;
   font-family: "Montserrat", sans-serif;
 }
@@ -146,7 +138,7 @@ i {
 }
 
 #projects-section i {
-  color: #AFB9E4;
+  color: #e6deff;
   font-size: 4rem;
 }
 
@@ -155,7 +147,7 @@ i {
 }
 
 #skills-section {
-  background-color: #dcd6F7;
+  background-color: #130d24;
   text-align: center;
 }
 
@@ -173,13 +165,13 @@ i {
 
 #skills-section i {
   font-size: 4rem;
-  color: #424874;
+  color: #e6deff;
 }
 
 #skills-section h1 {
   padding-bottom: 1rem;
   font-family: "Montserrat", sans-serif;
-  color: #424874;
+  color: #e6deff;
 }
 
 @media (min-width: 768px) {
@@ -190,10 +182,11 @@ i {
 
 #skills-section p {
   font-family: Arial, sans-serif;
+  color: #e6deff;
 }
 
 #contact-section {
-  background-color: #f4eeff;
+  background-color: #130d24;
   text-align: center;
 }
 
@@ -210,7 +203,7 @@ i {
 }
 
 #contact-section h1 {
-  color: #424874;
+  color: #e6deff;
   padding: 1rem 0;
   font-family: "Montserrat", sans-serif;
 }
@@ -222,7 +215,7 @@ i {
 }
 
 #contact-section i {
-  color: #AFB9E4;
+  color: #e6deff;
   font-size: 4rem;
 }
 
