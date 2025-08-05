@@ -37,7 +37,7 @@ body {
 
 #footer-section {
   text-align: center;
-  background-color: #000000;
+  background-color: #130d24;
   color: #AFB9E4;
   display: flex;
   justify-content: center;
@@ -67,7 +67,7 @@ i {
 }
 
 #mission-section {
-  background-color: #130d24;
+  background-color: #0e0813;
   padding: 1rem;
 }
 
@@ -103,7 +103,7 @@ i {
 }
 
 #projects-section {
-  background-color: #130d24;
+  background-color: #0e0813;
   padding: 1rem;
 }
 
@@ -147,7 +147,7 @@ i {
 }
 
 #skills-section {
-  background-color: #130d24;
+  background-color: #0e0813;
   text-align: center;
 }
 
@@ -186,7 +186,7 @@ i {
 }
 
 #contact-section {
-  background-color: #130d24;
+  background-color: #0e0813;
   text-align: center;
 }
 
